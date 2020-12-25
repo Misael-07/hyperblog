@@ -12,5 +12,6 @@ En este curso vemos de todo:
 * creado por el increible platzi team
 * Incluye ejemplos en windows, linux y mac
 * Disponible para todas las edades
+* Muy bueno por ser practico
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
